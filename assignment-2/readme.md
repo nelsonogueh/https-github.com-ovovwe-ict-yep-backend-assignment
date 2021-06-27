@@ -1,0 +1,1 @@
+Given this api https://jsonplaceholder.typicode.com/users endpoint, make an http request to print(console.log) only the name of the users.
